@@ -1,0 +1,5 @@
+Flask (0.12.2)
+Flask-Bootstrap (3.3.7.1)
+flask-nav (0.6)
+pandas (0.20.3)
+pandas-profiling (1.4.1)
